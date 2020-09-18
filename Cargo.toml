@@ -1,0 +1,17 @@
+[package]
+name = "subswap"
+version = "0.0.1"
+authors = ["clearloop <udtrokia@gmail.com>"]
+edition = "2018"
+description = "Swap substrate currencies"
+repository = "https://github.com/clearloop/subswap"
+license = "MIT"
+documentation = "https://docs.rs/subswap"
+homepage = "https://github.com/clearloop/subswap"
+include = ["src/**/*", "Cargo.toml", "./README.md"]
+keywords = ["substrate", "blockchain"]
+readme = './README.md'
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
